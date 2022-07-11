@@ -1,0 +1,7 @@
+yahoo_finance_api2
+pandas
+matplotlib
+japanize_matplotlib
+streamlit
+requests
+BeautifulSoup
